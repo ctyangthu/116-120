@@ -1,0 +1,6 @@
+{
+  "name": "東海大學 116-120 學年校務發展計畫導覽系統",
+  "description": "友善易用的東海大學 116-120 學年校務發展計畫互動資訊平台，涵蓋四大構面、12項策略、22個計畫、46項工作項目，搭配多維度統計分析、單位矩陣與 3D 校園戰略視覺化。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
